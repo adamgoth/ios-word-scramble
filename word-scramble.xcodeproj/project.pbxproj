@@ -12,6 +12,7 @@
 		F99146F01D8B999B00FDAF42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F99146EE1D8B999B00FDAF42 /* Main.storyboard */; };
 		F99146F21D8B999B00FDAF42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F99146F11D8B999B00FDAF42 /* Assets.xcassets */; };
 		F99146F51D8B999B00FDAF42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F99146F31D8B999B00FDAF42 /* LaunchScreen.storyboard */; };
+		F99146FD1D8B9AD300FDAF42 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F99146FC1D8B9AD300FDAF42 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F99146F11D8B999B00FDAF42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F99146F41D8B999B00FDAF42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F99146F61D8B999B00FDAF42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F99146FC1D8B9AD300FDAF42 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F99146EE1D8B999B00FDAF42 /* Main.storyboard */,
 				F99146F11D8B999B00FDAF42 /* Assets.xcassets */,
 				F99146F31D8B999B00FDAF42 /* LaunchScreen.storyboard */,
+				F99146FC1D8B9AD300FDAF42 /* start.txt */,
 				F99146F61D8B999B00FDAF42 /* Info.plist */,
 			);
 			path = "word-scramble";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F99146F51D8B999B00FDAF42 /* LaunchScreen.storyboard in Resources */,
+				F99146FD1D8B9AD300FDAF42 /* start.txt in Resources */,
 				F99146F21D8B999B00FDAF42 /* Assets.xcassets in Resources */,
 				F99146F01D8B999B00FDAF42 /* Main.storyboard in Resources */,
 			);
